@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KTZ Lead Engine
 
 An automated lead-sourcing tool for KTZ Media. It finds businesses in a
@@ -143,3 +144,6 @@ requirements.txt    Python dependencies
 - Free public OSM servers (Nominatim, Overpass) can occasionally be slow or
   return temporary errors under load — the script retries across multiple
   Overpass mirrors automatically, but Nominatim geocoding has no fallback yet
+=======
+# KTZ-Lead-Gen
+>>>>>>> 3af9149bde5015bb018a68b2e23b17722a616a39
