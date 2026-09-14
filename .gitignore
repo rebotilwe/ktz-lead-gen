@@ -1,0 +1,20 @@
+# Secrets — never commit these
+.env
+*.env
+# Secrets — never commit these
+.env
+*.env
+service_account*.json
+*credentials*.json
+*serviceaccount*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated output — this is data, not code
+output/
+*.csv
+*.json
